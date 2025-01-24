@@ -4,7 +4,7 @@
 // database connection config
 $dbHost = 'localhost';
 $dbUser = 'root';
-$dbPass = '';
+$dbPass = 'eshan';
 $dbName = 'courier_db';
 
 $dbConn = mysqli_connect ($dbHost, $dbUser, $dbPass) or die ('MySQL connect failed. ' . mysql_error());

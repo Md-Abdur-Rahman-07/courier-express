@@ -16,6 +16,11 @@ background-color:#0a2f5b;
 
 
 }
+
+.navbar-brand img{
+	height: 70px;
+
+}
 .lowerstyle{
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;

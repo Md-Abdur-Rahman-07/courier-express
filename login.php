@@ -225,7 +225,7 @@ $result = dbQuery($sql);
     <div class="container-fluid padding">
       <div class="row text-center">
         <div class="col-md-4">
-          <a class="navbar-brand" href="#"><img src="images/logo.png"></a>
+          <a class="navbar-brand" href="#"><img style="height: 100px;" src="images/logo.png"></a>
           <hr class="light">
           <p>999-999-9999</p>
           <p>email@gmail.com</p>
